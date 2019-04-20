@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Ejercicio 2 PAC Desarrollo UF 2</title>
+		<link>https://drive.google.com/file/d/1dnMPMRJU7m3s0q5BSbwP3MVGuPgYNdnk/view?usp=sharing</link>
+		<description>Ejericicio RSS con paginas de periodicos</description>
+		
+		<item>
+			<title>El mundo</title>
+			<link>https://www.elmundo.es/espana.html</link>
+			<description>Pagina web del periodico el mundo</description>
+		</item>		
+		<item>
+			<title>El Pais</title>
+			<link>https://elpais.com/politica/</link>
+			<description>Pagina web del periodico el Pais</description>
+		</item>	
+		<item>
+			<title>El ABC</title>
+			<link>https://www.abc.es/espana/</link>
+			<description>Pagina web del periodico el ABC</description>
+		</item>	
+		<item>
+			<title>La Razón</title>
+			<link>https://www.larazon.es/espana</link>
+			<description>Pagina web del periodico la Razón</description>
+		</item>	
+		<item>
+			<title>El Diario.es</title>
+			<link>https://www.eldiario.es/politica/</link>
+			<description>Pagina web del periodico el diario.es</description>
+		</item>	
+	</channel>
+</rss>
